@@ -5,3 +5,6 @@ Temp
 *.pidb
 *.unityproj
 *.sln
+*.userprefs
+*.unity
+*.asset
